@@ -6675,7 +6675,8 @@ ul.post-modern__meta [class*='fl-justicons'] {
 .product-preview {
 	position: relative;
 	padding-bottom: 88.88889%;
-	background: #f2f3f8;
+	border:1px solid #ccc;
+	background: #fff;
 	text-align: center;
 }
 
@@ -6684,9 +6685,9 @@ ul.post-modern__meta [class*='fl-justicons'] {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	width: auto;
-	height: auto;
-	max-height: 66%;
+	width: 80%;
+	height: 80%;
+	max-height: 80%;
 }
 
 .single-product .tabs-custom .nav-tabs {
@@ -15768,7 +15769,7 @@ img.mfp-img {
 }
 
 .slick-slider-vertical .slick-image > img {
-	width: 100%;
+	width:100%;
 }
 
 .slick-slider-vertical .carousel-child {
