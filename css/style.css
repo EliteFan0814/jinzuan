@@ -6610,7 +6610,8 @@ ul.post-modern__meta [class*='fl-justicons'] {
 }
 
 .product__image-wrap img {
-	max-height: 170px;
+	width:90%;
+	/* max-height: 170px; */
 }
 
 .product__image-wrap:hover {
