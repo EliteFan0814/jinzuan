@@ -3659,7 +3659,9 @@ textarea.form-input {
 		border-left: 1px solid #ebebeb;
 	}
 }
-
+.single-post-content{
+	text-align:left;
+}
 .layout-horizontal > * + * {
 	margin-top: 40px;
 }
@@ -3698,7 +3700,7 @@ textarea.form-input {
 		margin: 0 -35px;
 	}
 	.layout-horizontal > * {
-		padding: 0 35px;
+		padding: 0 20px;
 	}
 }
 
